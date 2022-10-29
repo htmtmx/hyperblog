@@ -20,17 +20,23 @@ body{
 #cabecera{
     width: 100%;
     background-color: #335;
-    color: red;
+    color: #a34de0;
     padding: 0.5rem;
     border-bottom: 1px solid #ddd;
     margin: 0;
     font-size: 40px;
     font-weight: bold;
+    display: flex;
+    align-items: center;
 }
 
 #cabecera #tagline{
-    color: #ff3636;
+    color: #f0f0f0;
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.65em;
+}
+
+#cabecera img{
+    width: 200px;
 }
