@@ -4,3 +4,4 @@ A incredible blog for the course Git and Github on Platzi
 @htmtmx
 
 * Readme mejorado
+* Incluye ejemplos en windows, linux y mac
