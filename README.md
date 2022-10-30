@@ -5,3 +5,4 @@ A incredible blog for the course Git and Github on Platzi
 
 * Readme mejorado
 * Incluye ejemplos en windows, linux y mac
+* Disponible para todas las edades
